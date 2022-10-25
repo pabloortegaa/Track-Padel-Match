@@ -1,6 +1,6 @@
 # Track-Padel-Match
 The purpose of this project is to create an app that can create some real-time statistics in padel matches.
-This project has been started in June 2022, and during this year I will upload the new improvements that I will be ding in my free time.
+This project has been started in June 2022, and during this year I will upload the new improvements that I will be doing in my free time.
 From now, we have the Minimap, where we can see the position of each player, and we could create a heatmap  in the future. 
 
 Upcoming improvements:
